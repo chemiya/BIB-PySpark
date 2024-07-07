@@ -1,8 +1,0 @@
-
-Árboles de Decisión ( DecisionTreeRegressor)
-Bosques Aleatorios (RandomForestClassifier)
-Gradient-Boosted Trees (GBTClassifier, GBTRegressor)
-Clustering K-Means (KMeans)
-Modelos de Factorización Matricial (ALS)
-Clasificador Naive Bayes (NaiveBayes)
-Redes Neuronales (a través de librerías externas como TensorFlow o PyTorch, integradas con PySpark)
